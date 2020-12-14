@@ -14,3 +14,5 @@ Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 ...
+Odpowiedzi do pytań:
+zadanie 3-2-2: Funkcjonalność programu można rozbudować poprzez zdefiniowanie w kodzie aktualniej liczby naciśnięć na mniejszą.
