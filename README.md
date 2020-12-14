@@ -16,3 +16,5 @@ Grupa studencka: WEL18DE1S1
 ...
 Odpowiedzi do pytań:
 zadanie 3-2-2: Funkcjonalność programu można rozbudować poprzez zdefiniowanie w kodzie aktualniej liczby naciśnięć na mniejszą.
+
+zadanie 3-2-3: Liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów można zwiększyć poprzez zmianę paramVal oraz bytesNo
